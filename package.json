@@ -1,0 +1,30 @@
+{
+  "name": "radig",
+  "version": "1.0.0",
+  "description": "A tiny (92B) and fast utility to randomize a fixed amount of digits",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Filipe Barros",
+    "email": "filipebarrossi@gmail.com",
+    "url": "https://github.com/barrosfilipe"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "tape ./test/*.js | tap-spec"
+  },
+  "keywords": [
+    "random",
+    "randomize",
+    "digits",
+    "numbers",
+    "generate",
+    "radig"
+  ],
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.2"
+  }
+}

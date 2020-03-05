@@ -1,0 +1,1 @@
+module.exports = len => Array(len).fill().map(n => Math.floor(Math.random() * 10)).join('');
