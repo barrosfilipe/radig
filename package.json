@@ -1,8 +1,8 @@
 {
   "name": "radig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny (92B) and fast utility to randomize a fixed amount of digits",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "homepage": "https://github.com/barrosfilipe/radig",
   "author": {
