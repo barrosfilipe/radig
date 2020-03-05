@@ -11,6 +11,7 @@ It generates a `random` fixed amount of `digits` of your choice and returns as `
 
 ```js
 const radig = require('radig');
+
 // length = 1 (default)
 radig(); //=> '5'
 radig(); //=> '0'
