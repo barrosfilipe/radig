@@ -3,6 +3,9 @@
 
 It generates a `random` fixed amount of `digits` of your choice and returns as `String`
 
+## Important
+`radig` can't be guaranteed to be unique.
+
 ## Install
 
 `npm i radig --save`
