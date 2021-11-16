@@ -1,5 +1,5 @@
 # radig
-> A tiny (92B) and fast utility to randomize a fixed amount of digits
+> A tiny (65B) and fast utility to randomize a fixed amount of digits
 
 It generates a `random` fixed amount of `digits` of your choice and returns as `String`
 
